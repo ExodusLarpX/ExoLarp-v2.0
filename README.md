@@ -1,4 +1,4 @@
-# RUN THE "RUN THIS FIRST.BAT" FIRST OR EXODUS WILL NOT WORK  #larping  #Exodus #crypto
+# RUN THE "EXOLARP.EXE" FIRST OR EXODUS WILL NOT WORK  #larping  #Exodus #crypto
 <img width="649" height="347" alt="image" src="https://github.com/user-attachments/assets/82a5a440-ebd4-44ac-b9cb-1bf2f6a49ee8" />
 
 THIS IS A EDITED VERISON OF EXODUS.
